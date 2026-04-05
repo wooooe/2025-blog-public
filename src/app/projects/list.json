@@ -1,1 +1,12 @@
-[]
+[
+	{
+		"name": "导航",
+		"year": 2026,
+		"image": "blob:https://blog.022311.xyz/bf702632-0aac-4d12-b511-b25ebbf7926f",
+		"url": "https://nav.ziv.pp.ua/",
+		"description": "cloudfare搭建的导航",
+		"tags": [
+			"nav"
+		]
+	}
+]

@@ -32,7 +32,7 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "a46372ff45bc5524",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -54,13 +54,6 @@
 			"value": "zaooen@qq.com",
 			"label": "",
 			"order": 1
-		},
-		{
-			"id": "button-1775403164094",
-			"type": "tiktok",
-			"value": "https://www.tiktok.com/@zaooen?_r=1&_t=ZN-95Hwn9DcXeY",
-			"label": "tiktok",
-			"order": 2
 		}
 	],
 	"clockShowSeconds": false,

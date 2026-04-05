@@ -2,11 +2,21 @@
 	{
 		"name": "导航",
 		"year": 2026,
-		"image": "blob:https://blog.022311.xyz/bf702632-0aac-4d12-b511-b25ebbf7926f",
+		"image": "/images/project/b6e12b67387ee2ee.png",
 		"url": "https://nav.ziv.pp.ua/",
 		"description": "cloudfare搭建的导航",
 		"tags": [
 			"nav"
+		]
+	},
+	{
+		"name": "博客",
+		"year": 2026,
+		"image": "blob:https://blog.022311.xyz/4a76a9a3-ae8c-4cbc-9b3c-a212a17cc0bf",
+		"url": "https://blog.ziv.pp.ua/",
+		"description": "个人博客，使用GitHub  page和 Vercel 部署",
+		"tags": [
+			"博客"
 		]
 	}
 ]

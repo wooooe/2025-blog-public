@@ -5,22 +5,22 @@
 		"username": "Woe"
 	},
 	"theme": {
-		"colorBrand": "#de4331",
-		"colorPrimary": "#4E3F42",
+		"colorBrand": "#35bfab",
+		"colorPrimary": "#334f52",
 		"colorSecondary": "#7b888e",
-		"colorBrandSecondary": "#FCC841",
+		"colorBrandSecondary": "#1fc9e7",
 		"colorBg": "#eeeeee",
 		"colorBorder": "#ffffff",
 		"colorCard": "#ffffff66",
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#FCC841",
-		"#DFEFFC",
-		"#DEDE92",
-		"#DE4331",
-		"#FE9750",
-		"#FCC841"
+		"#EDDD62",
+		"#9EE7D1",
+		"#84D68A",
+		"#EDDD62",
+		"#88E6E5",
+		"#a7f3d0"
 	],
 	"artImages": [
 		{
@@ -46,7 +46,7 @@
 			"type": "github",
 			"value": "https://github.com/wooooe",
 			"label": "Github",
-			"order": 2
+			"order": 3
 		},
 		{
 			"id": "email",
@@ -54,13 +54,6 @@
 			"value": "zaooen@qq.com",
 			"label": "",
 			"order": 1
-		},
-		{
-			"id": "button-1775404182632",
-			"type": "tiktok",
-			"value": "https://www.tiktok.com/@zaooen?_r=1&_t=ZN-95Hwn9DcXeY",
-			"label": "TikTok",
-			"order": 3
 		}
 	],
 	"clockShowSeconds": false,

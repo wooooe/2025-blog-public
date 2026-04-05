@@ -46,7 +46,7 @@
 			"type": "github",
 			"value": "https://github.com/wooooe",
 			"label": "Github",
-			"order": 3
+			"order": 2
 		},
 		{
 			"id": "email",
@@ -54,6 +54,13 @@
 			"value": "zaooen@qq.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1775404182632",
+			"type": "tiktok",
+			"value": "https://www.tiktok.com/@zaooen?_r=1&_t=ZN-95Hwn9DcXeY",
+			"label": "TikTok",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
